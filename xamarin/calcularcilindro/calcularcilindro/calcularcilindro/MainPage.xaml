@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="calcularcilindro.MainPage">
+
+    <StackLayout VerticalOptions="Center"
+                 HorizontalOptions="Center">
+       
+        <Label Text="Calcula el tamaño de la camisa de cilindro" FontSize="Title" Padding="30,10,30,10"/>
+        
+        <Entry Placeholder="Diametro interior del cilindro en estandar especificado por el manual en pulgadas" x:Name="Diametro" ></Entry>
+        <Entry Placeholder="Espesor de la camisa" x:Name="Espesor" ></Entry>
+        <Entry Placeholder="Temperatura ambiental de la zona de trabajo en grados Centigrados" x:Name="Temperatura" ></Entry>
+        <Button Text="Calcular" Clicked="Button_Clicked"></Button>
+        
+       
+    </StackLayout>
+
+</ContentPage>
