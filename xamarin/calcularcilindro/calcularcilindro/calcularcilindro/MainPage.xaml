@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="calcularcilindro.MainPage"
+             Visual="Material">
+
+    <ScrollView>
+
+        <StackLayout VerticalOptions="Center"
+                 HorizontalOptions="Center"
+                 Padding="05,05,05,05"
+                 WidthRequest="300"
+                 >
+
+            <Label Text="Calcula el tamaño de la camisa del cilindro" FontSize="Title" FontAttributes="Bold" HorizontalTextAlignment="Center" TextColor="#565168"/>
+
+        <Label Text="Ingrese" FontSize="Subtitle" FontAttributes="Bold"></Label>
+
+        <Label Text="Diametro interior del cilindro en estandar especificado por el manual en pulgadas" ></Label>
+        <Entry Placeholder="Diametro " x:Name="Diametro" 
+               Keyboard="Numeric"></Entry>
+        
+        <Label Text="Espesor de la camisa" ></Label>
+        <Entry Placeholder="Espesor de la camisa" x:Name="Espesor" 
+                Keyboard="Numeric"></Entry>
+
+        <Label Text="Ingrese la Temperatura ambiental de la zona de trabajo en Grados Centigrados" ></Label>
+        <Entry Placeholder="Temperatura" x:Name="Temperatura" 
+                Keyboard="Numeric"></Entry>
+
+            <Button Text="Calcular" Clicked="Button_Clicked" Background="#77c83f" ></Button>
+
+        
+        <!-- Muestra de los resultados -->
+
+         <Label Text="Resultados" FontSize="Subtitle" FontAttributes="Bold" Padding="05,05,05,05"></Label>
+
+
+         <Label Text="El apriete en milecimas de pulgada es de:" />
+        <Entry Placeholder="" x:Name="TxAprieteMilecimas" IsEnabled="False"></Entry>
+        
+        <Label Text="Con una tolerencia en milecimas de pulgadas de:" />
+        <Entry Placeholder="" x:Name="TxTolerancia" IsEnabled="False" ></Entry>
+        
+        <Label Text="Es necesario calentar el monoblock en Grados Centigrados hasta:" />
+        <Entry Placeholder="" x:Name="TxTemEnc" IsEnabled="False" ></Entry>
+        
+        <Label Text="Con una tolenrancia en Grados Centigrados de:" > </Label>
+        <Entry Placeholder=" " x:Name="TxToLo" IsEnabled="False" ></Entry>
+
+
+            
+        
+       
+    </StackLayout>
+        
+    </ScrollView>
+
+</ContentPage>

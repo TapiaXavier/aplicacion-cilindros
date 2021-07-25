@@ -1,0 +1,7 @@
+D:\TapiaDev\RAFA\aplicacion-cilindros\Prueba\CilindrosAlgoritmo\CilindrosAlgoritmo\bin\Debug\CilindrosAlgoritmo.exe.config
+D:\TapiaDev\RAFA\aplicacion-cilindros\Prueba\CilindrosAlgoritmo\CilindrosAlgoritmo\bin\Debug\CilindrosAlgoritmo.exe
+D:\TapiaDev\RAFA\aplicacion-cilindros\Prueba\CilindrosAlgoritmo\CilindrosAlgoritmo\bin\Debug\CilindrosAlgoritmo.pdb
+D:\TapiaDev\RAFA\aplicacion-cilindros\Prueba\CilindrosAlgoritmo\CilindrosAlgoritmo\obj\Debug\CilindrosAlgoritmo.csprojAssemblyReference.cache
+D:\TapiaDev\RAFA\aplicacion-cilindros\Prueba\CilindrosAlgoritmo\CilindrosAlgoritmo\obj\Debug\CilindrosAlgoritmo.csproj.CoreCompileInputs.cache
+D:\TapiaDev\RAFA\aplicacion-cilindros\Prueba\CilindrosAlgoritmo\CilindrosAlgoritmo\obj\Debug\CilindrosAlgoritmo.exe
+D:\TapiaDev\RAFA\aplicacion-cilindros\Prueba\CilindrosAlgoritmo\CilindrosAlgoritmo\obj\Debug\CilindrosAlgoritmo.pdb

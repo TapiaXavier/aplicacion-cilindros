@@ -1,0 +1,14 @@
+D:\TapiaDev\RAFA\aplicacion-cilindros\xamarin\calcularcilindro\calcularcilindro\calcularcilindro\bin\Debug\netstandard2.0\calcularcilindro.deps.json
+D:\TapiaDev\RAFA\aplicacion-cilindros\xamarin\calcularcilindro\calcularcilindro\calcularcilindro\bin\Debug\netstandard2.0\calcularcilindro.dll
+D:\TapiaDev\RAFA\aplicacion-cilindros\xamarin\calcularcilindro\calcularcilindro\calcularcilindro\bin\Debug\netstandard2.0\ref\calcularcilindro.dll
+D:\TapiaDev\RAFA\aplicacion-cilindros\xamarin\calcularcilindro\calcularcilindro\calcularcilindro\bin\Debug\netstandard2.0\calcularcilindro.pdb
+D:\TapiaDev\RAFA\aplicacion-cilindros\xamarin\calcularcilindro\calcularcilindro\calcularcilindro\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\TapiaDev\RAFA\aplicacion-cilindros\xamarin\calcularcilindro\calcularcilindro\calcularcilindro\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\TapiaDev\RAFA\aplicacion-cilindros\xamarin\calcularcilindro\calcularcilindro\calcularcilindro\obj\Debug\netstandard2.0\calcularcilindro.AssemblyInfoInputs.cache
+D:\TapiaDev\RAFA\aplicacion-cilindros\xamarin\calcularcilindro\calcularcilindro\calcularcilindro\obj\Debug\netstandard2.0\calcularcilindro.AssemblyInfo.cs
+D:\TapiaDev\RAFA\aplicacion-cilindros\xamarin\calcularcilindro\calcularcilindro\calcularcilindro\obj\Debug\netstandard2.0\calcularcilindro.csproj.CoreCompileInputs.cache
+D:\TapiaDev\RAFA\aplicacion-cilindros\xamarin\calcularcilindro\calcularcilindro\calcularcilindro\obj\Debug\netstandard2.0\XamlC.stamp
+D:\TapiaDev\RAFA\aplicacion-cilindros\xamarin\calcularcilindro\calcularcilindro\calcularcilindro\obj\Debug\netstandard2.0\calcularcilindro.dll
+D:\TapiaDev\RAFA\aplicacion-cilindros\xamarin\calcularcilindro\calcularcilindro\calcularcilindro\obj\Debug\netstandard2.0\ref\calcularcilindro.dll
+D:\TapiaDev\RAFA\aplicacion-cilindros\xamarin\calcularcilindro\calcularcilindro\calcularcilindro\obj\Debug\netstandard2.0\calcularcilindro.pdb
+D:\TapiaDev\RAFA\aplicacion-cilindros\xamarin\calcularcilindro\calcularcilindro\calcularcilindro\obj\Debug\netstandard2.0\calcularcilindro.csprojAssemblyReference.cache
