@@ -37,8 +37,18 @@ namespace CilindrosAlgoritmo
             var TemEnc = ((((IA / K)+1)* 3.3 ) + Ti);
             var ToLo = TemEnc / 13;
 
+            float ResulApriete = (float)AprieteMilecimas;
+            float ResulTolerancia = (float)Tolerancia;
+            float ResulTemEnc = (float)TemEnc;
+            float ResulToLo = (float)ToLo;
+
+
+
+
             Console.WriteLine("El Apriete es de: ", AprieteMilecimas + "Milecimas de Pulgada + -" + Tolerancia + "mm de pulgadas" + "--" + "es necesario calentar el monoblock hasta los" + TemEnc + "grados centigrados + -" + ToLo + "ºC");
 
+
+            Console.WriteLine("El Apriete es de: ", ResulApriete + "Milecimas de Pulgada + -" + ResulTolerancia + "mm de pulgadas" + "--" + "es necesario calentar el monoblock hasta los" + ResulTemEnc + "grados centigrados + -" + ResulToLo + "ºC");
 
 
         }

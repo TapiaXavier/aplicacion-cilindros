@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5QBt0WFdBT3qool/oRGJcmAGEw32ZDiIZD3eJBmnIVBbXCBmYtBZQ86cXB6+Q67kzYDWXCmQMV8GtM1A/bORbg==",
+  "dgSpecHash": "OQi7y+soKRgbHALn6+71SZEfTNo8QIRIp2vOTiXiv/gXzaBsPwsV5bh1GPy6RBZN42vU2tD+5kYY15wyhJlcbw==",
   "success": true,
   "projectFilePath": "D:\\TapiaDev\\RAFA\\aplicacion-cilindros\\xamarin\\calcularcilindro\\calcularcilindro\\calcularcilindro.Android\\calcularcilindro.Android.csproj",
   "expectedPackageFiles": [
@@ -42,7 +42,8 @@
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.versionedparcelable\\28.0.0.3\\xamarin.android.support.versionedparcelable.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.viewpager\\28.0.0.3\\xamarin.android.support.viewpager.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+    "C:\\Users\\ACJUL\\.nuget\\packages\\xamarin.forms\\4.8.0.1821\\xamarin.forms.4.8.0.1821.nupkg.sha512",
+    "C:\\Users\\ACJUL\\.nuget\\packages\\xamarin.forms.visual.material\\4.8.0.1821\\xamarin.forms.visual.material.4.8.0.1821.nupkg.sha512"
   ],
   "logs": []
 }
